@@ -25,7 +25,7 @@
 body {
 	color: #666666;
 	font-size: 15px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Akaya Kanadaka', cursive;
 	line-height: 1.80857;
 	overflow-x: hidden !important;
 }
@@ -101,6 +101,11 @@ h4 a:hover,
 h5 a:hover,
 h6 a:hover {
 	opacity: .8
+}
+hr{
+	background-color: #05E0D8;
+	width: 200px;
+	size: 50px;
 }
 
 a {
